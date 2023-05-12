@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/zaheerahmedkhan" target="blank"><img src="https://img.shields.io/twitter/follow/zaheerahmedkhan?logo=twitter&style=for-the-badge" alt="zaheerahmedkhan" /></a> </p>
 
-- 🔭 I’m currently working on [Vocalytics.ai](https://vocalytics.ai/)
+<!-- - 🔭 I’m currently working on [Vocalytics.ai](https://vocalytics.ai/) -->
 
 - 🌱 I’m currently learning **MERN and Javascript Library**
 
-- 👯 I’m looking to collaborate on [Roof Realtor](https://polkrealtors.com/)
+<!-- - 👯 I’m looking to collaborate on [Roof Realtor](https://polkrealtors.com/)
 
-- 🤝 I’m looking for help with [Spam Burner](https://spamburner.com/)
+- 🤝 I’m looking for help with [Spam Burner](https://spamburner.com/) -->
 
 - 💬 Ask me about **react js, next js, redux, material ui, typescript,javascript,html,css, boostrap, node js**
 
